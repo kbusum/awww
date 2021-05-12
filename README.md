@@ -1,4 +1,4 @@
-# awww
+# awww - A Way With Words
 This project is a python script that lets you download all the episodes of the podcast, A Way with Words
 
 ## Please install the following
@@ -11,3 +11,7 @@ pip3 install soundcloud-lib
 pip3 install beautifulsoup4
 ```
 
+## To Run
+```
+python3 download_awww_episodes.py
+```
