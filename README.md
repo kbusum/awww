@@ -16,5 +16,5 @@ pip3 install beautifulsoup4
 python3 download_awww_episodes.py
 ```
 ## Make Changes to 
-the range of episodes to download. currently set from page 75 to page 1. 
+The range of episodes to download is currently set from page 75 to page 1. 
 Also, if there is an error on the page download you can start from the next page and continue downloading. 
